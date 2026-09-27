@@ -234,4 +234,4 @@ For example, increasing **temperature and wind speed** while decreasing **humidi
 
 
 
-## 📢 Developed For IoTRICITY-Season 3 Hackathon Team NodeX
+## 📢 Developed For IoTRICITY-Season 3 Hackathon by Team NodeX
