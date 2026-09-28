@@ -159,7 +159,7 @@ When the environmental risk falls below the threshold, the system can return to 
 ## 🔗 Wokwi Simulation
 
 🔗 **Wokwi Project:**  
-[View Wokwi Simulation](https://wokwi.com/projects/476312385602555905)
+[View Wokwi Simulation] https://wokwi.com/projects/476396397897861121
 ## Circuit Diagram---
 
 <img width="428" height="392" alt="image" src="https://github.com/user-attachments/assets/7b79ef70-8200-4dd0-821c-d594b02354b3" />
